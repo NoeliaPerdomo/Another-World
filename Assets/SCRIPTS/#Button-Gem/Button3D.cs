@@ -21,8 +21,8 @@ public class Button3D : MonoBehaviour
             PushButton.Play();
         }
 
-       // {
-            //this.gameObject.SetActive(false);
-       // }
+        {
+            Destroy(gameObject);
+        }
     }
 }

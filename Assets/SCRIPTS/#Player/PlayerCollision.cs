@@ -19,7 +19,6 @@ public class PlayerCollision : MonoBehaviour
 
     private void Start()
     {
-       // audioSource = GetComponent<AudioSource>();
         playerData = GetComponent<PlayerData>();
         HUDManager.SetHPBar(playerData.HP);
     }
