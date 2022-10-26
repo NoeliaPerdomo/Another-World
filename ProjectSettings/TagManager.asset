@@ -10,6 +10,8 @@ TagManager:
   - Enemies
   - PowerUp
   - punch
+  - button
+  - gem
   layers:
   - Default
   - TransparentFX

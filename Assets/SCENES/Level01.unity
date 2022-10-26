@@ -2249,7 +2249,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7762803, y: 1}
+    m_SensorSize: {x: 1.7774869, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -11643,7 +11643,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7762803, y: 1}
+    m_SensorSize: {x: 1.7774869, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -12190,6 +12190,10 @@ PrefabInstance:
     - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
       propertyPath: m_Name
       value: Button06
+      objectReference: {fileID: 0}
+    - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
+      propertyPath: m_TagString
+      value: button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
@@ -12781,6 +12785,10 @@ PrefabInstance:
     - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
+      propertyPath: m_TagString
+      value: gem
       objectReference: {fileID: 0}
     - target: {fileID: 364103134575696672, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_RootOrder
@@ -14179,6 +14187,10 @@ PrefabInstance:
     - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
+      propertyPath: m_TagString
+      value: gem
       objectReference: {fileID: 0}
     - target: {fileID: 364103134575696672, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_RootOrder
@@ -15796,6 +15808,10 @@ PrefabInstance:
     - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
       propertyPath: m_Name
       value: Button05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
+      propertyPath: m_TagString
+      value: button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
@@ -18072,7 +18088,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 508463171, guid: bb1227fd9f85444fd97fadc8bd464956, type: 3}
       propertyPath: healPoints
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 6539842091006249734, guid: bb1227fd9f85444fd97fadc8bd464956, type: 3}
       propertyPath: m_Name
@@ -24455,6 +24471,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
+      propertyPath: m_TagString
+      value: gem
+      objectReference: {fileID: 0}
     - target: {fileID: 364103134575696672, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -26003,6 +26023,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
+      propertyPath: m_TagString
+      value: gem
+      objectReference: {fileID: 0}
     - target: {fileID: 364103134575696672, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -26774,6 +26798,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
+      propertyPath: m_TagString
+      value: gem
+      objectReference: {fileID: 0}
     - target: {fileID: 364103134575696672, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -27458,6 +27486,10 @@ PrefabInstance:
     - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
       propertyPath: m_Name
       value: Button02
+      objectReference: {fileID: 0}
+    - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
+      propertyPath: m_TagString
+      value: button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
@@ -28189,7 +28221,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7762803, y: 1}
+    m_SensorSize: {x: 1.7774869, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -28247,10 +28279,10 @@ RectTransform:
   m_Father: {fileID: 656660353}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -374.04, y: 252.81}
-  m_SizeDelta: {x: 335.68, y: 67.554}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 265.9, y: -107.19}
+  m_SizeDelta: {x: 335.8, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1554131087
 MonoBehaviour:
@@ -28274,11 +28306,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 5dd49b3eacc540408c98eee0de38e0f1, type: 3}
-    m_FontSize: 32
+    m_FontSize: 28
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 3
-    m_MaxSize: 40
+    m_MinSize: 1
+    m_MaxSize: 30
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -29508,7 +29540,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7762803, y: 1}
+    m_SensorSize: {x: 1.7774869, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -37814,6 +37846,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button03
       objectReference: {fileID: 0}
+    - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
+      propertyPath: m_TagString
+      value: button
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
 --- !u!4 &1905828820 stripped
@@ -38850,6 +38886,198 @@ AudioSource:
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 130
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!82 &2014008809
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014008790}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 51be7b452cdf243f2ada2b7407a1af75, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.04
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!82 &2014008810
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014008790}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 8c1f72f73d7b54b5e9d1170c65dec490, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.04
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -40147,6 +40375,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 360346947353708768, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
+      propertyPath: m_TagString
+      value: gem
+      objectReference: {fileID: 0}
     - target: {fileID: 364103134575696672, guid: a30663d6db7674c3b8e3613833cd495a, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -40751,6 +40983,10 @@ PrefabInstance:
     - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
       propertyPath: m_Name
       value: Button04
+      objectReference: {fileID: 0}
+    - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
+      propertyPath: m_TagString
+      value: button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
@@ -41448,6 +41684,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2014008800}
     - target: {fileID: 2334077818215176669, guid: e1a31d1d88985418b946908ae6ebef2e, type: 3}
+      propertyPath: CatchGem
+      value: 
+      objectReference: {fileID: 2014008810}
+    - target: {fileID: 2334077818215176669, guid: e1a31d1d88985418b946908ae6ebef2e, type: 3}
+      propertyPath: PushButton
+      value: 
+      objectReference: {fileID: 2014008809}
+    - target: {fileID: 2334077818215176669, guid: e1a31d1d88985418b946908ae6ebef2e, type: 3}
       propertyPath: audioSource
       value: 
       objectReference: {fileID: 2014008798}
@@ -42013,6 +42257,10 @@ PrefabInstance:
     - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
       propertyPath: m_Name
       value: Button01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6808636626165466711, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}
+      propertyPath: m_TagString
+      value: button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa8aa13e2d68d4bf093ce41d98220729, type: 3}

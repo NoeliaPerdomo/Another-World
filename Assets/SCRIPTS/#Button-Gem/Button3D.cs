@@ -17,8 +17,7 @@ public class Button3D : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             OnTriggerButton3D?.Invoke();
-            PushButton.clip = SoundPushButton;
-            PushButton.Play();
+      
         }
 
         {

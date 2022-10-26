@@ -19,7 +19,7 @@ public class Gem : MonoBehaviour
     public GameObject GemWin;
     public AudioClip WinSound;
 
-    public AudioSource CatchGem;
+    
     public AudioSource winSound;
 
 
@@ -31,8 +31,6 @@ public class Gem : MonoBehaviour
         {
             OnTriggerButton3D?.Invoke();
             objPoints.GetComponent<QuantityGems>().quantityGems += points;
-            CatchGem.clip = SoundCatchGem;
-            CatchGem.Play();
             if (objPoints.GetComponent<QuantityGems>().quantityGems >=6)
             {
                 Win();

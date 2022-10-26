@@ -12,6 +12,9 @@ public class PlayerCollision : MonoBehaviour
 
     public AudioSource PlayerDamageHit;
     public AudioSource PowerUp;
+    public AudioSource PushButton;
+    public AudioSource CatchGem;
+
 
 
     public static event Action<int> OnChangeHP;
@@ -67,6 +70,16 @@ public class PlayerCollision : MonoBehaviour
 
             GameManager.score++;
             Debug.Log(GameManager.score);
+        }
+
+        if (other.gameObject.CompareTag("button"))
+        {
+            PushButton.Play();
+        }
+
+        if (other.gameObject.CompareTag("gem"))
+        {
+            CatchGem.Play();
         }
     }
 }
