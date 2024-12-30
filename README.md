@@ -1,3 +1,3 @@
 # AnotherWorld
-Creación de Juego en Unity para proyecto final en Academia Coderhouse
+Creación de Juego en Unity para proyecto final de Desarrollo de Videojuegos en Academia Coderhouse
  
